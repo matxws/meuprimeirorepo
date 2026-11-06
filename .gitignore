@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Cache local dos geradores Python de áudio e vozes.
+__pycache__/
+*.py[cod]
