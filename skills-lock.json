@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "godot-nodes-scenes": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot/godot-nodes-scenes/SKILL.md",
+      "computedHash": "e0255203a7f437fa3ce07515e91e7c678c8611815be50d5050638a562ed8afe9"
+    },
+    "godot-tilemap": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot/godot-tilemap/SKILL.md",
+      "computedHash": "b8f8bc2ffdf11ee2b9281dbf99708ba691af8cdcd095482c9f253a78fef7ee42"
+    },
+    "godot-ui-control": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot/godot-ui-control/SKILL.md",
+      "computedHash": "1fe9a2ddf7809220316dd1e7553723cc27c2f015ce8d06286cff75a5c95fd5cb"
+    }
+  }
+}
